@@ -1,2 +1,52 @@
-/* You can put your own style here */
+.navbar
+{
+	  background: -webkit-linear-gradient(180deg, #8989F6 , #04046F); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(180deg, #8989F6 , #04046F); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(180deg, #8989F6 , #04046F); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(180deg, #8989F6 , #04046F); /* Standard syntax (must be last) */
+    opacity: 0.8;
+}
 
+#templatemo_footer {
+  margin-top: 20%;
+  border-top: 7px groove #8989F6;
+  position: relative;
+}
+
+body {
+  
+  font-family: 'Montserrat', sans-serif;
+  margin: 1px;
+}
+
+#container1
+{
+	font-family: 'Ultra', serif;
+	font-size: 48px;
+	color: #000000;
+  text-align: center;
+  margin-top: 2%;
+}
+
+.reponse {
+  margin-top: 50px;
+  margin: 15px 15px 15px 15px;
+}
+#pos10
+{
+  margin-top: 50px;
+  text-align: center;
+}
+
+#question{
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+#pages{
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-right: 15px;
+}
